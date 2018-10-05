@@ -13,18 +13,19 @@ h1 {
 #contenedor
 {
 	background-color: #F2F3F4 ;
+	height: 100%;
 	border: 2px solid #FFF0F5;
 	position:relative;
 	width:60%;
 	margin: 0 auto;
 	padding: 10px;
-  
+    
 }
 
 
 
 
-
+}
 header
 {
 	background-color: #717D7E;
@@ -64,6 +65,8 @@ p{
     margin:  50px 300px;
 
 }
+
+
 
 footer{
 
