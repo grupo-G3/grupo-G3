@@ -13,6 +13,7 @@ h1 {
 #contenedor
 {
 	background-color: #F2F3F4 ;
+	height: 100%;
 	border: 2px solid #FFF0F5;
 	position:relative;
 	width:60%;
@@ -24,7 +25,7 @@ h1 {
 
 
 
-
+}
 header
 {
 	background-color: #717D7E;
